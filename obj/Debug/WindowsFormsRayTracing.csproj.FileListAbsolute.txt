@@ -1,0 +1,60 @@
+P:\Projects\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe.config
+P:\Projects\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe
+P:\Projects\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.pdb
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.exe
+P:\Projects\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.pdb
+E:\Курсовая\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe.config
+E:\Курсовая\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe
+E:\Курсовая\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.pdb
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.exe
+E:\Курсовая\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.pdb
+C:\Users\student\Desktop\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe.config
+C:\Users\student\Desktop\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.exe
+C:\Users\student\Desktop\WindowsFormsRayTracing\bin\Debug\WindowsFormsRayTracing.pdb
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.exe
+C:\Users\student\Desktop\WindowsFormsRayTracing\obj\Debug\WindowsFormsRayTracing.pdb
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\bin\Debug\WindowsFormsRayTracing.exe.config
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\bin\Debug\WindowsFormsRayTracing.exe
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\bin\Debug\WindowsFormsRayTracing.pdb
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.exe
+F:\Курсовая\WindowsFormsRayTracing(the best implementation)\obj\Debug\WindowsFormsRayTracing.pdb
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\bin\Debug\WindowsFormsRayTracing.exe.config
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\bin\Debug\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\bin\Debug\WindowsFormsRayTracing.pdb
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.0)\obj\Debug\WindowsFormsRayTracing.pdb
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Debug\WindowsFormsRayTracing.exe.config
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Debug\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Debug\WindowsFormsRayTracing.pdb
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.csprojAssemblyReference.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.MainForm.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.Properties.Resources.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.csproj.GenerateResource.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Debug\WindowsFormsRayTracing.pdb

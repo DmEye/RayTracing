@@ -1,0 +1,10 @@
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Release\WindowsFormsRayTracing.exe.config
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Release\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\bin\Release\WindowsFormsRayTracing.pdb
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.csprojAssemblyReference.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.MainForm.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.Properties.Resources.resources
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.csproj.GenerateResource.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.csproj.CoreCompileInputs.cache
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.exe
+P:\USER\Проекты\Курсовая(Ray Tracing)\RayTracing(3.1)\obj\Release\WindowsFormsRayTracing.pdb
